@@ -6,8 +6,8 @@
 
 
 ### <img src="https://media.giphy.com/media/omHPYZttAVAAw/giphy.gif" width="50"> More about me...
-```javascript
-const George = {
+```python
+ George = {
   code: [Python, C#],
   tools: [Dockerm Kubernetes]
 }
