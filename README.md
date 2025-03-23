@@ -9,7 +9,7 @@
 ```python
  George = {
   code: [Python, C#],
-  tools: [Dockerm Kubernetes]
+  tools: [Coca-Cola, Red Bull]
 }
 ```
 <img src="https://media.giphy.com/media/7jDqIOCUsd62FoSePJ/giphy.gif" width="60"> <em><b>Work Hard, Play Hard</b>
