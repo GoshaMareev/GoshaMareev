@@ -1,16 +1,18 @@
 # George Mareev
 
-### AI Platform Engineer — on-prem LLM platforms for data-sensitive environments
+### AI Engineer — self-hosted LLM platforms with controlled model access
 
-I build the infrastructure that makes large language models usable inside organizations that cannot
-send their data to a public API: the gateway, the agents, the guardrails, and the observability and
-audit layer that security teams ask for before anything reaches production.
+I build self-hosted enterprise AI platforms: model gateways, production RAG assistants, secure
+deployment, evaluation, observability and prompt-level audit. Model and embedding endpoints can be
+local or OpenAI-compatible services; data residency depends on the configured endpoints.
+
+[Portfolio](https://mareevapps.com/) · [Runnable public reference](https://github.com/GoshaMareev/secure-llm-platform-reference)
 
 ---
 
 ## What I've built
 
-**On-prem AI platform for an enterprise customer** — designed and delivered end to end, running in production.
+**Self-hosted AI platform for an enterprise customer** — designed and delivered end to end, running in production.
 
 **Gateway & infrastructure**
 LiteLLM as the single model gateway, Open WebUI as the user surface, PostgreSQL, nginx with TLS
@@ -70,8 +72,8 @@ and what broke along the way.
 
 ## Open to
 
-AI platform, LLM infrastructure and LLMOps roles — especially in regulated or air-gapped environments
-where the model cannot be a hosted API call.
+AI engineering, LLM infrastructure and LLMOps roles, with a focus on controlled model access,
+retrieval quality and reliable operations in data-sensitive environments.
 
 ---
 
