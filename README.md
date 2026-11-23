@@ -1,4 +1,10 @@
-![George Mareev — AI engineer specializing in self-hosted LLM platforms, with Anya Forger from Spy × Family](./assets/profile-header.png)
+<p align="center">
+  <img src="./assets/profile-header.png" width="480" alt="Anya Forger smiling in Spy × Family" />
+</p>
+
+# George Mareev
+
+**AI Engineer · Self-hosted LLM platforms**
 
 I built two production assistants that help teams find answers in internal documents. They cite the source in SharePoint and tell the reader when the documents don’t support an answer.
 
